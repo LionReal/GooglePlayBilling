@@ -119,11 +119,11 @@ class BillingProcessor:
         # to the ProductDetails variable.
     async def products_data_get(self):
         print("products_data_get start")
-        self.get_purchase_listing_async('50lives')
+        self.get_purchase_listing_async('item1')
         await asyncio.sleep(0.2)
-        self.get_purchase_listing_async('100lives')
+        self.get_purchase_listing_async('item2')
         await asyncio.sleep(0.2)
-        self.get_purchase_listing_async('200lives')
+        self.get_purchase_listing_async('item3')
         await asyncio.sleep(0.2)
 
     @mainthread
