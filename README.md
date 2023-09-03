@@ -6,7 +6,7 @@ You can use it for Purchased Consumable Products.
 There are no subscription modules.
 
 
-You can access the license cake used in the application in the following way:
+You can access the license key used in the application in the following way:
 
 Your License Key from Google Developer console. This will be used to verify purchase signatures. You can pass NULL if you would like to skip this check (You can find your key in Google Play Console -> Your App Name -> Services & APIs)
 
