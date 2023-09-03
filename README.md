@@ -13,7 +13,7 @@ Your License Key from Google Developer console. This will be used to verify purc
 You must define the items used in the application as consumable products via the Goole play console.
 
 
-Linkes:
+Links:
 https://developer.android.com/google/play/billing/integrate
 
 https://medium.com/androiddevelopers/working-with-google-play-billing-part-2-b859b55426d2
