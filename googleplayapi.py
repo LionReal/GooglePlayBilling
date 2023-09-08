@@ -142,7 +142,7 @@ class BillingProcessor:
             if self.receiptData:
                 receipt = self.receiptData
                 #To send the receipt information to the server and verify it with the google api on the server
-                # app.google.api_receşpt_check(receipt)
+                # app.google.api_receipt_check(receipt)
                 print("Recipt :", receipt)
                 self.receiptData = {}
             else:
