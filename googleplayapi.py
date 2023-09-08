@@ -104,10 +104,10 @@ class BillingProcessor:
         try:
             self.purchases_updated_callback_wrapper = KivyPurchasesUpdatedListener(self.ul_callback_wrapper)
             self.on_billing_setup_finished_callback_wrapper = KivyBillingClientStateListener(self.sl_callback_wrapper)
-            bc = BillingClient.newBuilder(self._context)
-            bc.enablePendingPurchases()
-            bc.setListener(self.purchases_updated_callback_wrapper)
-            self._billing_client = bc.build()
+            #bc = BillingClient.newBuilder(self._context)
+            #bc.enablePendingPurchases()
+            #bc.setListener(self.purchases_updated_callback_wrapper)
+            #self._billing_client = bc.build()
             self._billing_client = BillingClient.newBuilder(self._context).enablePendingPurchases().setListener(
                 self.purchases_updated_callback_wrapper).build()
             self._billing_client.startConnection(self.on_billing_setup_finished_callback_wrapper)
