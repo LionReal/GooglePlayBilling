@@ -99,7 +99,7 @@ fullscreen = 0
 #android.permissions = android.permission.INTERNET, (name=android.permission.WRITE_EXTERNAL_STORAGE;maxSdkVersion=18)
 
 android.permissions = INTERNET,ACCESS_NETWORK_STATE,com.android.vending.BILLING,
-android.meta_data = billing_pubkey = "Your license key"
+android.meta_data = billing_pubkey = Your-license-key
 # (list) features (adds uses-feature -tags to manifest)
 #android.features = android.hardware.usb.host
 
