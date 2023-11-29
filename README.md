@@ -17,7 +17,7 @@ You must define the items used in the application as consumable products via the
 <img width="461" alt="BillingStructure" src="https://github.com/LionReal/GooglePlayBilling/assets/79577465/a9b72b77-b51f-48c7-a4c2-1000753cecdf">
 
 Example Video:
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
+https://github.com/LionReal/GooglePlayBilling/blob/main/example_video.mp4
 
 Links:
 https://developer.android.com/google/play/billing/integrate
