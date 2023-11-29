@@ -5,14 +5,15 @@ This repository contains an application structure that works with Kivy, which al
 You can use it for Purchased Consumable Products.
 There are no subscription modules.
 
-
-You can access the license key used in the application in the following way:
-
-Your License Key from Google Developer console. This will be used to verify purchase signatures. You can pass NULL if you would like to skip this check (You can find your key in Google Play Console -> Your App Name -> Services & APIs)
-
 You must define the items used in the application as consumable products via the Google play console.
 
 Don't forget to define the items in the googleplayapi.py file.
+
+You can access the license key used in the application in the following way:
+  1- Open Play Console and select the app.
+  2- Go to the Monetization setup page(Monetize > Monetization setup).
+  3- Your license key is under "Licensing."
+
 
 
 <img width="461" alt="BillingStructure" src="https://github.com/LionReal/GooglePlayBilling/assets/79577465/a9b72b77-b51f-48c7-a4c2-1000753cecdf">
