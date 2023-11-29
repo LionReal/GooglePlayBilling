@@ -10,14 +10,18 @@ You can access the license key used in the application in the following way:
 
 Your License Key from Google Developer console. This will be used to verify purchase signatures. You can pass NULL if you would like to skip this check (You can find your key in Google Play Console -> Your App Name -> Services & APIs)
 
-You must define the items used in the application as consumable products via the Goole play console.
+You must define the items used in the application as consumable products via the Google play console.
 
+
+
+<img width="461" alt="BillingStructure" src="https://github.com/LionReal/GooglePlayBilling/assets/79577465/a9b72b77-b51f-48c7-a4c2-1000753cecdf">
+
+Example Video:
+https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
 
 Links:
 https://developer.android.com/google/play/billing/integrate
 
 https://medium.com/androiddevelopers/working-with-google-play-billing-part-2-b859b55426d2
 
-
-<img width="461" alt="BillingStructure" src="https://github.com/LionReal/GooglePlayBilling/assets/79577465/a9b72b77-b51f-48c7-a4c2-1000753cecdf">
 
