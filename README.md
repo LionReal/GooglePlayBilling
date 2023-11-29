@@ -13,7 +13,7 @@ You can access the license key used in the application in the following way:
   1- Open Play Console and select the app.
   2- Go to the Monetization setup page(Monetize > Monetization setup).
   3- Your license key is under "Licensing."
-  4- Define license key in main.py
+  4- Define license key in main.py and buildozer.spec
 
 
 <img width="461" alt="BillingStructure" src="https://github.com/LionReal/GooglePlayBilling/assets/79577465/a9b72b77-b51f-48c7-a4c2-1000753cecdf">
