@@ -12,6 +12,7 @@ Your License Key from Google Developer console. This will be used to verify purc
 
 You must define the items used in the application as consumable products via the Google play console.
 
+Don't forget to define the items in the googleplayapi.py file.
 
 
 <img width="461" alt="BillingStructure" src="https://github.com/LionReal/GooglePlayBilling/assets/79577465/a9b72b77-b51f-48c7-a4c2-1000753cecdf">
@@ -22,7 +23,9 @@ https://github.com/LionReal/GooglePlayBilling/assets/79577465/448ef0ed-302d-4263
 
 
 Links:
+
 https://developer.android.com/google/play/billing/integrate
+
 
 https://medium.com/androiddevelopers/working-with-google-play-billing-part-2-b859b55426d2
 
